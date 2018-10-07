@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\ImpulseTest.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{8033A08C-4373-4EE5-BBED-06949D621B83}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\ImpulseTest.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\ImpulseTestEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{AFC63FB6-F539-4643-BEF8-9C3E9BA94257}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\ImpulseTest">
+			<UniqueIdentifier>{A6F2B068-B975-4B5D-8621-6F46CD432243}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\ImpulseTest\ImpulseTest.Build.cs">
+			<Filter>Source\ImpulseTest</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\ImpulseTest\ImpulseTest.cpp">
+			<Filter>Source\ImpulseTest</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ImpulseTest\ImpulseTest.h">
+			<Filter>Source\ImpulseTest</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ImpulseTest\ImpulseTestCode.cpp">
+			<Filter>Source\ImpulseTest</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ImpulseTest\ImpulseTestCode.h">
+			<Filter>Source\ImpulseTest</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ImpulseTest\Rotation.cpp">
+			<Filter>Source\ImpulseTest</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ImpulseTest\Rotation.h">
+			<Filter>Source\ImpulseTest</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

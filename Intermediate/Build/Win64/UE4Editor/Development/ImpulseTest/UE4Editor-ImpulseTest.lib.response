@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ImpulseTest.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Game Projects\The Fall Game 4.20\Intermediate\Build\Win64\ImpulseTestEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"E:\Game Projects\The Fall Game 4.20\Intermediate\Build\Win64\UE4Editor\Development\ImpulseTest\ImpulseTest.cpp.obj"
+"E:\Game Projects\The Fall Game 4.20\Intermediate\Build\Win64\UE4Editor\Development\ImpulseTest\ImpulseTestCode.cpp.obj"
+"E:\Game Projects\The Fall Game 4.20\Intermediate\Build\Win64\UE4Editor\Development\ImpulseTest\Rotation.cpp.obj"
+"E:\Game Projects\The Fall Game 4.20\Intermediate\Build\Win64\UE4Editor\Development\ImpulseTest\ImpulseTest.init.gen.cpp.obj"
+"E:\Game Projects\The Fall Game 4.20\Intermediate\Build\Win64\UE4Editor\Development\ImpulseTest\ImpulseTestCode.gen.cpp.obj"
+"E:\Game Projects\The Fall Game 4.20\Intermediate\Build\Win64\UE4Editor\Development\ImpulseTest\Rotation.gen.cpp.obj"
+"E:\Game Projects\The Fall Game 4.20\Intermediate\Build\Win64\UE4Editor\Development\ImpulseTest\PCLaunch.rc.res"
+/OUT:"E:\Game Projects\The Fall Game 4.20\Intermediate\Build\Win64\UE4Editor\Development\ImpulseTest\UE4Editor-ImpulseTest.lib"
